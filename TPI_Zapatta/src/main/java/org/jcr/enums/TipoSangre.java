@@ -1,5 +1,9 @@
 package org.jcr.enums;
-
+/**
+ *
+ * @author Carlos German Zapatta y Leonardo Laureano Gonzales
+ * 
+ */
 public enum TipoSangre {
     A_POSITIVO("A+"),
     A_NEGATIVO("A-"),

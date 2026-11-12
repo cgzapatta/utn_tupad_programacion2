@@ -1,5 +1,9 @@
 package org.jcr.entidades;
-
+/**
+ *
+ * @author Carlos German Zapatta y Leonardo Laureano Gonzales
+ * 
+ */
 public class Matricula {
     private String numero;
 

@@ -7,7 +7,11 @@ import org.jcr.entidades.Medico;
 import org.jcr.entidades.Paciente;
 import org.jcr.entidades.Sala;
 import org.jcr.excepciones.CitaException;
-
+/**
+ *
+ * @author Carlos German Zapatta y Leonardo Laureano Gonzales
+ * 
+ */
 public interface CitaService {
 
     // Programa una cita nueva si pasa todas las reglas

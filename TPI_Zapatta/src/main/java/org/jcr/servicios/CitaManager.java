@@ -10,7 +10,11 @@ import org.jcr.entidades.Medico;
 import org.jcr.entidades.Paciente;
 import org.jcr.entidades.Sala;
 import org.jcr.excepciones.CitaException;
-
+/**
+ *
+ * @author Carlos German Zapatta y Leonardo Laureano Gonzales
+ * 
+ */
 public class CitaManager implements CitaService {
     private List<Cita> citas;
 

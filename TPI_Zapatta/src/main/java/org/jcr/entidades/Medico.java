@@ -6,7 +6,11 @@ import java.util.Collections;
 import java.util.List;
 import org.jcr.enums.EspecialidadMedica;
 import org.jcr.enums.TipoSangre;
-
+/**
+ *
+ * @author Carlos German Zapatta y Leonardo Laureano Gonzales
+ * 
+ */
 public class Medico extends Persona {
     private Matricula matricula;
     private EspecialidadMedica especialidad;

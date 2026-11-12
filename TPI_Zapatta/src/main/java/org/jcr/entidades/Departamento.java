@@ -4,7 +4,11 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 import org.jcr.enums.EspecialidadMedica;
-
+/**
+ *
+ * @author Carlos German Zapatta y Leonardo Laureano Gonzales
+ * 
+ */
 public class Departamento {
     private String nombre;
     private EspecialidadMedica especialidad;

@@ -1,5 +1,9 @@
 package org.jcr.enums;
-
+/**
+ *
+ * @author Carlos German Zapatta y Leonardo Laureano Gonzales
+ * 
+ */
 public enum TipoSala {
     CONSULTORIO("Consultorio", 2),
     QUIROFANO("Quirófano", 10),

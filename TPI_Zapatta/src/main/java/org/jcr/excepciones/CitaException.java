@@ -1,5 +1,9 @@
 package org.jcr.excepciones;
-
+/**
+ *
+ * @author Carlos German Zapatta y Leonardo Laureano Gonzales
+ * 
+ */
 public class CitaException extends Exception {
 
     // Se usa cuando algo sale mal al programar una cita

@@ -3,7 +3,11 @@ package org.jcr.entidades;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+/**
+ *
+ * @author Carlos German Zapatta y Leonardo Laureano Gonzales
+ * 
+ */
 public class Hospital {
     private String nombre;
     private String direccion;

@@ -3,7 +3,11 @@ package org.jcr.entidades;
 import java.time.LocalDate;
 import java.time.Period;
 import org.jcr.enums.TipoSangre;
-
+/**
+ *
+ * @author Carlos German Zapatta y Leonardo Laureano Gonzales
+ * 
+ */
 public abstract class Persona {
     protected String nombre;
     protected String apellido;

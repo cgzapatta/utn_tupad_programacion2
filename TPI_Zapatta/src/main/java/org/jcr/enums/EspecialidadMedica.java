@@ -1,5 +1,9 @@
 package org.jcr.enums;
-
+/**
+ *
+ * @author Carlos German Zapatta y Leonardo Laureano Gonzales
+ * 
+ */
 public enum EspecialidadMedica {
     CARDIOLOGIA("Cardiología", 30),
     PEDIATRIA("Pediatría", 30),

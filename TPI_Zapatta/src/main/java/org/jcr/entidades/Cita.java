@@ -2,7 +2,11 @@ package org.jcr.entidades;
 
 import java.time.LocalDateTime;
 import org.jcr.enums.EstadoCita;
-
+/**
+ *
+ * @author Carlos German Zapatta y Leonardo Laureano Gonzales
+ * 
+ */
 public class Cita {
     private Paciente paciente;
     private Medico medico;
